@@ -1,7 +1,7 @@
 # Project3-Competitive-Landscape
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Project: Competitive Landscape: Ironhack’s Path to Success: Shaping the future of education
+# Project: Ironhack’s Path to Success: Shaping the future of education
 
 ## Content
 
