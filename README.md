@@ -1,7 +1,7 @@
 # Project3-Competitive-Landscape
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Project: Ironhack’s Path to Success: Shaping the future of education
+# Ironhack’s Path to Success: Shaping the future of education, comprehensive analysis of market competitors
 
 ## Content
 
